@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: build.sbt
+  visible: false
+- name: src/input.txt
+  visible: true
+- name: src/org/apache/beam/learning/katas/scala/intro/map/Task.scala
+  visible: true
+- name: test/org/apache/beam/learning/katas/scala/intro/map/TestSpec.scala
+  visible: false

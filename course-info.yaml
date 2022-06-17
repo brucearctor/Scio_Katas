@@ -1,0 +1,8 @@
+type: marketplace
+title: SCIO_KATAS
+language: English
+summary: This is a collection of Katas using Scio.
+programming_language: Scala
+environment: sbt
+content:
+- lesson1
